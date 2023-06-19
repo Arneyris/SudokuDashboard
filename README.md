@@ -1,5 +1,7 @@
 # SudokuDashboard
 
+![record-rgb-20230620_004846](https://github.com/Arneyris/SudokuDashboard/assets/73390264/da8169a6-cb3e-4c3f-903d-b337655b1770)
+
 ## Requirements
 
 - JDK 17+
@@ -19,6 +21,4 @@ In Maven you can use just
 mvn exec:java
 ```
 
-## Video of the program's functionality
 
-![ezgif com-video-to-gif](https://github.com/Arneyris/SudokuDashboard/assets/73390264/d872c4df-f3fa-40b2-8e0c-72549bf09299)
